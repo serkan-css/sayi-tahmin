@@ -1,6 +1,3 @@
-Gemini said
-Tabii ki, GitHub profilinde uluslararası bir görünüm kazanmak için İngilizce README her zaman en iyi tercihtir. İşte Sayı Tahmin Oyunu için profesyonelce hazırlanmış İngilizce sürüm:
-
 📝 Number Guessing Game (C#)
 A robust console-based application built with C# that features user interaction, persistent high scores, and advanced logic for a classic gaming experience.
 
